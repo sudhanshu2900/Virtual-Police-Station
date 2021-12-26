@@ -1,0 +1,94 @@
+/* Common Page */
+#CP_heading h1 {
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 4px;
+}
+
+#CP_para {
+  text-align: center;
+  margin-top: -20px;
+}
+#CP_para p {
+  font-weight: 510;
+  font-size: 18px;
+}
+
+#CP_subheading {
+  text-align: center;
+  padding-top: 10px;
+  letter-spacing: 2px;
+}
+
+/* Registration Page */
+#RP {
+  padding: 50px;
+}
+
+/*form page*/
+#formArea {
+  margin-top: 20px;
+  padding: 30px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 3px 3px 30px gray;
+}
+#formBtn {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+/* Form Internal Component page */
+#FIC label {
+  width: 100%;
+}
+
+#FIC_first {
+  letter-spacing: 1px;
+  display: flex;
+  justify-content: center;
+}
+#FIC_first_box {
+  width: 250px;
+}
+#FIC_first p {
+  text-align: start;
+  font-weight: 600;
+}
+#FIC-form {
+  display: flex;
+  justify-content: center;
+}
+
+#FIC_second label {
+  width: 100%;
+}
+
+/* Login Page */
+#LP {
+  padding: 50px;
+}
+#LP_lastLine {
+  margin-top: 40px;
+  padding: 30px;
+  text-align: center;
+}
+
+/* Register Complain Page */
+#RCP {
+  padding: 50px;
+}
+#RCP subHeading {
+  color: red;
+}
+
+/* Common Thanks Page */
+.commonThanksPage {
+  text-align: center;
+  padding: 50px;
+}
+
+#CTP_heading h1 {
+  font-weight: 600;
+}

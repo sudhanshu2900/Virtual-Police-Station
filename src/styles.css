@@ -1,0 +1,91 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* All buttons used in project */
+#btn {
+  width: 200px;
+  height: 40px;
+  border-radius: 50px;
+  background-color: #18a0fb;
+}
+#btn:hover {
+  background-color: white;
+  color: #18a0fb;
+}
+
+/* Landing page 1st section */
+.LandingPage {
+  background-color: lightgray;
+  height: 100%;
+}
+#LP_sec1 {
+  padding-top: 50px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+#LP_sec1 h1 {
+  font-weight: 600;
+}
+
+/* Landing page 2nd section */
+#LP_sec2 {
+  margin-top: 40px;
+  border-radius: 15px;
+  padding: 40px;
+  background-color: white;
+  box-shadow: 3px 3px 30px gray;
+}
+#LP_sec2_Heading {
+  text-align: center;
+  margin-bottom: 30px;
+}
+#LP_sec2_Heading h2 {
+  font-weight: 600;
+}
+#LP_sec2_aboutInfo {
+  color: gray;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#LP_sec2_warningInfo {
+  color: red;
+  padding-top: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-align: center;
+  font-size: 13px;
+}
+#LP_sec2_left {
+  padding-top: 10px;
+  text-align: center;
+}
+#LP_sec2 h6 {
+  letter-spacing: 2px;
+  font-weight: 620;
+  font-size: 13px;
+}
+#LP_sec2_right {
+  padding-top: 10px;
+  text-align: center;
+}
+#LP_sec2_btnPart {
+  padding-top: 40px;
+}
+
+/* Registration Page */
+#RP {
+  background-color: lightgray;
+}
+
+/* Login Page */
+#LP {
+  background-color: lightgray;
+}
+
+/* Register Complain Page */
+#RCP {
+  background-color: lightgray;
+}
